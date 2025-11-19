@@ -76,9 +76,9 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 
 Program
 ```
-Am=6.4;
+Am=6.7;
 fm=577;
-Ac=12.8;
+Ac=13.4;
 fc=5770;
 fs=57700;
 t=0:1/fs:2/fm;
